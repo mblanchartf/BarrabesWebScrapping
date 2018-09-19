@@ -34,12 +34,7 @@ raquetas = {
 
 cascos_y_protecciones = {
 	"Cascos" : "http://www.barrabes.com/esqui-raquetas/cascos-protecciones-cascos/dep-800080100-d?pag=",
-	"Protecciones" : "http://www.barrabes.com/esqui-raquetas/cascos-protecciones-protecciones/dep-800080200-d?pag=",
-	"" : "?pag=",
-	"" : "?pag=",
-	"" : "?pag=",
-	"" : "?pag=",
-	"" : "?pag="	
+	"Protecciones" : "http://www.barrabes.com/esqui-raquetas/cascos-protecciones-protecciones/dep-800080200-d?pag="
 }
 
 seguridad = {
@@ -55,7 +50,7 @@ accesorios_y_mantenimiento = {
 	"Para fijaciones" : "http://www.barrabes.com/esqui-raquetas/accesorios-mantenimiento-fijaciones/dep-800100200-d?pag=",
 	"Para tablas" : "http://www.barrabes.com/esqui-raquetas/accesorios-mantenimiento-tablas/dep-800100300-d?pag=",
 	"Para botas" : "http://www.barrabes.com/esqui-raquetas/accesorios-mantenimiento-botas/dep-800100400-d?pag=",
-	"Para rquetas" : "http://www.barrabes.com/esqui-raquetas/accesorios-mantenimiento-raquetas/dep-800100500-d?pag=",
+	#"Para raquetas" : "http://www.barrabes.com/esqui-raquetas/accesorios-mantenimiento-raquetas/dep-800100500-d?pag=",
 	"Bolsas y otros" : "http://www.barrabes.com/esqui-raquetas/accesorios-mantenimiento-bolsas-otros/dep-800100600-d?pag="
 }
 

@@ -28,7 +28,7 @@ pantalones = {
 
 camisetas = {
 	"Técnicas" : "http://www.barrabes.com/ropa-montaña-mujer/camisetas-tecnicas/dep-220040100-d?pag=",
-	"Algodón" : "http://www.barrabes.com/ropa-montaña-mujer/camisetas-algodon/dep-220040200-d?pag="
+	#"Algodón" : "http://www.barrabes.com/ropa-montaña-mujer/camisetas-algodon/dep-220040200-d?pag="
 }
 
 ropa_interior = {
@@ -40,9 +40,9 @@ ropa_interior = {
 guantes_y_manoplas = {
 	"Alta Montaña" : "http://www.barrabes.com/ropa-montaña-mujer/guantes-manoplas-alta-montaña/dep-220070100-d?pag=",
 	"Polares" : "http://www.barrabes.com/ropa-montaña-mujer/guantes-manoplas-polares/dep-220070200-d?pag=",
-	"Esquí de montaña" : "http://www.barrabes.com/ropa-montaña-mujer/guantes-manoplas-esqui-montaña/dep-220070300-d?pag=",
-	"Finos" : "http://www.barrabes.com/ropa-montaña-mujer/guantes-manoplas-finos/dep-220070400-d?pag=",
-	"Manoplas" : "http://www.barrabes.com/ropa-montaña-mujer/guantes-manoplas-manoplas/dep-220070500-d?pag="
+	"Manoplas" : "http://www.barrabes.com/ropa-montaña-mujer/guantes-manoplas-manoplas/dep-220070500-d?pag=",
+	#"Esquí de montaña" : "http://www.barrabes.com/ropa-montaña-mujer/guantes-manoplas-esqui-montaña/dep-220070300-d?pag=",
+	#"Finos" : "http://www.barrabes.com/ropa-montaña-mujer/guantes-manoplas-finos/dep-220070400-d?pag="
 }
 
 gorros_y_tubulares = {
